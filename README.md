@@ -47,12 +47,10 @@ For more information on SemVer, please visit http://semver.org/.
 
 
 
-Bug tracker
+Bug/feature tracker
 -----------
 
-To report a bug, please create an issue here on GitHub that conforms with [necolas's guidelines](https://github.com/necolas/issue-guidelines).
-
-https://github.com/xoops/pi/issues
+To report a bug or request a feature, please create an issue here on GitHub [Pi Issues](https://github.com/xoops/pi/issues) that conforms with [necolas's guidelines](https://github.com/necolas/issue-guidelines).
 
 
 
@@ -77,18 +75,18 @@ Development
 
 Beyond production and application, the Engine also strives to be strictly standard compliant, including but not limited to:
 
-1. Versioning - Semantic Versioning Specification http://semver.org/
-2. PHP - PSR compliant https://github.com/php-fig/fig-standards http://framework.zend.com/wiki/display/ZFDEV2/Coding+Standards
-3. HTML/CSS - Google HTML/CSS Style Guide http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
-4. JavaScript - Google JavaScript Style Guide http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+1. Versioning - [Semantic Versioning Specification](http://semver.org)
+2. PHP - [PSR compliant](https://github.com/php-fig/fig-standards), [Zend Framework Coding Standards](http://framework.zend.com/wiki/display/ZFDEV2/Coding+Standards)
+3. HTML/CSS - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+4. JavaScript - [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 5. All code must be strictly compliant to its corresponding standards, no warning/notice messages allowed
 
 
 Third-party libraries utilized in this framework:
 
-1. PHP - Zend Framework 2
-2. JavaScript - jQuery
-3. CSS/JS - Bootstrap/Backbone
+1. PHP - [Zend Framework 2](https://github.com/zendframework/zf2)
+2. JavaScript - [jQuery](https://github.com/jquery/jquery)
+3. CSS/JS - [Bootstrap](https://github.com/twitter/bootstrap)/[Backbone](https://github.com/documentcloud/backbone)
 
 
 
