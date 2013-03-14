@@ -6,7 +6,7 @@ Selected features and practices:
 1. Modularization for functionality and applications
 2. Components for basic libraries and services for fundamental system functions
 3. Theming for presentation and appearance
-4. Templating for design friendly
+4. Design-friendly templating
 5. DevOps oriented architecture
 
 
@@ -24,4 +24,4 @@ Third-party frameworks utilized in this framework:
 
 
 Taiwen Jiang
-March 7th, 2013
+March 14th, 2013
