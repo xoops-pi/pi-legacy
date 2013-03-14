@@ -5,6 +5,9 @@ Xoops/Pi Engine (The Engine, hereafter) is a role oriented modularized framework
 
 The Engine is released under a New BSD License and the project is intended to promote a sustainable ecosystem that benefits all contributors and users.
 
+**Check out the [Pi Day Release](https://github.com/xoops/pi/blob/master/doc/pi-day-release.txt).**
+
+
 
 Features and practices
 ----------------------
