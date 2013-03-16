@@ -8,7 +8,7 @@ Xoops/Pi Engine (The Engine, hereafter) is a role oriented modularized framework
 
 The Engine is released under a New BSD License and the project is intended to promote a sustainable ecosystem that benefits all contributors and users.
 
-The Xoops/Pi Engine is a successor of the XOOPS Project led by Ono Kazumi (onokazu), skalpa and Taiwen Jiang (phppp). The Pi Team is inspired by them and benefits from their experiences and spirit.Long live with free software spirit.
+The Xoops/Pi Engine is a successor of the XOOPS Project led by Ono Kazumi (onokazu), skalpa and Taiwen Jiang (phppp). The Pi Team is inspired by them and benefits from their experiences and spirit.
 
 Selected features and practices:
 1. Modularization for functionality and applications
